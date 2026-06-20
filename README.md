@@ -116,6 +116,69 @@ Spread / Rest Operators
     1. using ""
     2. using ''
     3. using `` (template literals )
-
+### Methods
+    toUpperCase();
+    toLowerCase();
+    length
+    trim();
+    test();
+    split();
 ## Functions
-        
+        Function is the block of code which is used to perform a particular task . 
+### Types of Functions
+    1. Named Function
+    2. Anonymous Function
+    3. Arrow function
+
+Ex- 
+    1. Function Expression
+    2. Constructor Function
+    3. Immediatly Invoked Function Expr ession
+    4. callback function
+    5. Closure function
+    6. Heigher Order function
+    
+### Rules 
+1. function must have alphnumeric
+2. function can start with the _ 
+3. function are case sensitive .
+4. fuinction  can not be any predefined keywords or function .
+
+## Syntax
+    function name(){
+        // statements
+    }
+
+   name() // calling
+
+## Pattern
+1. 
+*
+* *
+* * *
+* * * *
+
+
+2.
+    *
+  * * *
+* * * * *
+
+
+# Object
+    Object is a collection of methods and properties in javaScript 
+####            OR
+    Object is a real world entity .
+
+## Properties 
+    Properties are the key value pairs .
+
+## Methods 
+    Methods are the function inside the Object .
+    Ex - 
+        const obj = {"name":"abc",age:30}
+
+
+
+
+
